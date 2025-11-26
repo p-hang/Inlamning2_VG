@@ -1,7 +1,7 @@
 1. gradle-clean:
 I Library-Gradle, under Task -> build kör jag clean, den här kommandon har tagit bort
 den gamla build katalogen och rensar project.
-Innan körde jag clean, finns total 60 directories, 47 files.
+Innan körde jag clean, fanns total 60 directories, 47 files.
 Efter den, fick jag total 20 directories och 21 files.
 
 2. Gradle build:
@@ -22,7 +22,13 @@ Den här kommando om man köra bara den ska också ska en html report build/repo
 
  5. Gradle run:
  I Library-Gradle -> Tasks -> application kör jag run.
- 
+ Den kommandon kör main class i gradle.
+
+6. Gradle jar:
+I Library-Gradle -> Tasks -> build, kör jag jar.
+Den kommandon skapar en jar fil från src/main/java.
+Och syns det Library-Gradle-1.0-SNAPSHOT.jar build/libs.
+
 
 
 
