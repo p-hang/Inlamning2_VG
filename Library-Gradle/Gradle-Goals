@@ -12,22 +12,20 @@ en jar-fil:  Library-Gradle-1.0-SNAPSHOT.jar skapas under build/libs.
 test-rapporter index.html genereras i build/reports/tests/test också.
 
 3. Gradle test:
-I Library-Gradle, under Tasks -> verification kör jag test, 8 tests pass fick jag.
-Då gradle hittar alla test klasser inuti src/test/java och kör den.
-Den här kommando om man köra bara den ska också ska en html report build/reports/tests/test/index.html.
+När man kör gradle test hittar Gradle alla testklasser i src/test/java och kör dem.
+Jag fick 8 tester som passerade. HTML-rapporten genereras också under
+build/reports/tests/test/index.html
 
  4. Gradle javadoc:
- Den kan jag köra i Intellij Library-Gradle under documentation -> javadoc.
- Efter den kommandon har kört, en javadoc filen <>index.html skapas under build/docs/javadoc/
+ Jag körde gradle javadoc i IntelliJ under Documentation → Javadoc.
+ Efter körning skapades filen index.html under build/docs/javadoc/.
 
  5. Gradle run:
- I Library-Gradle -> Tasks -> application kör jag run.
- Den kommandon kör main class i gradle.
+ I Library-Gradle -> Tasks -> application kör jag run. Den kör main klassen i project.
 
 6. Gradle jar:
-I Library-Gradle -> Tasks -> build, kör jag jar.
-Den kommandon skapar en jar fil från src/main/java.
-Och syns det Library-Gradle-1.0-SNAPSHOT.jar build/libs.
+Jag körde gradle jar under Tasks → Build. Detta skapar en JAR-fil från src/main/java,
+och filen Library-Gradle-1.0-SNAPSHOT.jar syns under build/libs/.
 
 
 
