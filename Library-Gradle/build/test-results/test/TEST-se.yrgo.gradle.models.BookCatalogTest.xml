@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.yrgo.gradle.models.BookCatalogTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-11-26T09:55:11.219Z" hostname="HANG-PHAN" time="0.045">
+  <properties/>
+  <testcase name="testAddABook()" classname="se.yrgo.gradle.models.BookCatalogTest" time="0.031"/>
+  <testcase name="testFindBook()" classname="se.yrgo.gradle.models.BookCatalogTest" time="0.002"/>
+  <testcase name="testFindBookIgnoringCase()" classname="se.yrgo.gradle.models.BookCatalogTest" time="0.002"/>
+  <testcase name="testFindBookWithExtraSpaces()" classname="se.yrgo.gradle.models.BookCatalogTest" time="0.002"/>
+  <testcase name="testFindBookThatDoesntExist()" classname="se.yrgo.gradle.models.BookCatalogTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

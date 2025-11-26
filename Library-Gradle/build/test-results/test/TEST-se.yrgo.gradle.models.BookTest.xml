@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.yrgo.gradle.models.BookTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-26T09:55:11.271Z" hostname="HANG-PHAN" time="0.005">
+  <properties/>
+  <testcase name="test2NonEqualBooks()" classname="se.yrgo.gradle.models.BookTest" time="0.002"/>
+  <testcase name="test2EqualBooks()" classname="se.yrgo.gradle.models.BookTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
