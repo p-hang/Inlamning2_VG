@@ -1,0 +1,7 @@
+1. gradle-clean:
+I Library-Gradle, under Task -> build kör jag clean, den här kommandon har tagit bort
+den gamla build katalogen och rensar project.
+Innan körde jag clean, finns total 60 directories, 47 files.
+Efter den, fick jag total 20 directories och 21 files.
+
+2. 
