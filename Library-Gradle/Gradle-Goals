@@ -4,4 +4,19 @@ den gamla build katalogen och rensar project.
 Innan körde jag clean, finns total 60 directories, 47 files.
 Efter den, fick jag total 20 directories och 21 files.
 
-2. 
+2. Gradle build:
+I Library-Gradle, under Tasks -> build, kör jag build.
+Den kommandon kompilerar alla källkod i src/main/java.
+Kompilerar och kör de testerna i src/test/java.
+en jar-fil:  Library-Gradle-1.0-SNAPSHOT.jar skapas under build/libs.
+test-rapporter index.html genereras i build/reports/tests/test också.
+
+3. Gradle test:
+I Library-Gradle, under Tasks -> verification kör jag test, 8 tests pass fick jag.
+Då gradle hittar alla test klasser inuti src/test/java och kör den.
+Den här kommando om man köra bara den ska också ska en html report build/reports/tests/test/index.html.
+
+ 4. Gradle javadoc:
+ Den kan jag köra i Intellij Library-Gradle under documentation -> javadoc.
+
+
