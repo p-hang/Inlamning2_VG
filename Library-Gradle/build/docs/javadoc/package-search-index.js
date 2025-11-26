@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"se.yrgo.gradle.models"},{"l":"se.yrgo.gradle.ui"},{"l":"se.yrgo.gradle.utilities"}];updateSearchResults();

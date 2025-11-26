@@ -1,0 +1,18 @@
+-classpath 'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\build\\classes\\java\\main;C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\build\\resources\\main'
+-quiet 
+-encoding 'UTF-8'
+-d 'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\build\\docs\\javadoc'
+-windowtitle 'Library-Gradle 1.0-SNAPSHOT API'
+-doctitle 'Library-Gradle 1.0-SNAPSHOT API'
+-notimestamp 
+'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\src\\main\\java\\se\\yrgo\\gradle\\models\\Book.java'
+'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\src\\main\\java\\se\\yrgo\\gradle\\models\\BookCatalog.java'
+'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\src\\main\\java\\se\\yrgo\\gradle\\models\\BookNotFoundException.java'
+'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\src\\main\\java\\se\\yrgo\\gradle\\models\\Customer.java'
+'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\src\\main\\java\\se\\yrgo\\gradle\\models\\Loan.java'
+'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\src\\main\\java\\se\\yrgo\\gradle\\models\\LoanAlreadyExistsException.java'
+'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\src\\main\\java\\se\\yrgo\\gradle\\models\\LoanNotFoundException.java'
+'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\src\\main\\java\\se\\yrgo\\gradle\\models\\Material.java'
+'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\src\\main\\java\\se\\yrgo\\gradle\\ui\\Main.java'
+'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\src\\main\\java\\se\\yrgo\\gradle\\utilities\\GenderType.java'
+'C:\\Users\\Hang Phan\\yrgo\\utvecklingsvektyg\\Inlamning\\Inlamning2\\Library-Gradle\\src\\main\\java\\se\\yrgo\\gradle\\utilities\\LoanStatus.java'

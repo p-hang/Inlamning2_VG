@@ -18,5 +18,11 @@ Den här kommando om man köra bara den ska också ska en html report build/repo
 
  4. Gradle javadoc:
  Den kan jag köra i Intellij Library-Gradle under documentation -> javadoc.
+ Efter den kommandon har kört, en javadoc filen <>index.html skapas under build/docs/javadoc/
+
+ 5. Gradle run:
+ I Library-Gradle -> Tasks -> application kör jag run.
+ 
+
 
 
